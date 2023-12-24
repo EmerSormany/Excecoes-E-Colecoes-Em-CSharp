@@ -1,0 +1,3 @@
+Olá, me chamo Emerson Sormany
+Sou desenvolvedor Node.JS
+E estou estudando C#
